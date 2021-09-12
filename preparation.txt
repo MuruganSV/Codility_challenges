@@ -1,0 +1,12 @@
+Of course, you can retake the interview in three months, and with your zeal and proactive approach, we believe you’ll be back with a bang!
+
+I’d love to help you pull up your sleeves 💪 and kill it in your next attempt. Here are some resources that might help you ace your next attempt: 
+
+• Coursera - https://www.coursera.org/learn/algorithmic-thinking-1
+• Hackerrank - HackerRank (https://www.hackerrank.com/)
+• Codility - https://app.codility.com/demo/take-sample-test/
+• Khan Acadamy - https://www.khanacademy.org/computing/computer-science/algorithms
+• Data structures and algorithms - https://leetcode.com
+• System Design - https://github.com/donnemartin/system-design-primer
+• OOP & Design Patterns - https://www.youtube.com/playlist?list=PLF206E906175C7E07
+• Git - https://git-scm.com/book/en/v2
