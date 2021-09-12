@@ -24,7 +24,7 @@ while i < arrlength :
             if len(arr[j]) < splitCount and (len(arr[i])+len(arr[j]) <= splitCount):
                 arr[i] = arr[i] + arr[j]
                 resultarr[k] = arr[i]
-                jump += 1
+                jump += 1;
             
             if len(arr[i]) >= splitCount or len(arr[j]) >= splitCount or (len(temparr[0])+len(arr[j]) >= splitCount):
                 resultarr[k] = arr[i]
