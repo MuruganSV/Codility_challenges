@@ -50,3 +50,11 @@ def solution(A):
             break
     
     return oddOcuurance
+## Above solution will work for 100%, but performance is 25%, below solution will give 100% efficient performance
+
+#### Efficient Algorthim for this problem:
+def solution(A):
+    result = 0
+    for number in A:
+        result ^= number
+    return result
